@@ -1,4 +1,4 @@
-rootProject.name = "My application"
+rootProject.name = "Compose IOS Template"
 
 include(":androidApp")
 include(":shared")
